@@ -21,7 +21,7 @@ You can customize the download location by changing the path in the download_vid
 
 You can also customize the progress bar by modifying the on_progress() function.
 
-#Contributing
+# Contributing
 Contributions are welcome! Feel free to submit a pull request or open an issue if you have any suggestions or bug reports.
 
 #License
